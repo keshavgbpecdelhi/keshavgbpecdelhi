@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@hackerhacker">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavgbpecdelhi&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavgbpecdelhi&layout=compact&hide=tsql&show_icons=true" />
