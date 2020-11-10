@@ -1,4 +1,4 @@
-## Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">, I'm [Keshav!](https://keshavgbpecdelhi.github.io) 
+## Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">, I'm [Keshav!](https://) 
 <br />
 <a href="https://www.youtube.com/channel/UCmcq3sQAsw8SCHSjuzkYkfw">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
@@ -17,8 +17,8 @@
 </a>
 
 <br />
-
-**keshavgbpecdelhi/keshavgbpecdelhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
