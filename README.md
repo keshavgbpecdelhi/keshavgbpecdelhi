@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning basic algorithmic techniques and ideas for computational problems.
 - 👯 I’m looking to collaborate on [NO IDEA]
 - 🤔 I’m looking for help with [NO IDEA]
-- 💬 Ask me about my boring [channel](https://www.youtube.com/channel/UCsq-0rqRffMbySKDh3Y9kgA) :/
+- 💬 Ask me about this [channel](https://www.youtube.com/channel/UCsq-0rqRffMbySKDh3Y9kgA) :/
 - 📫 How to reach me: Links are below.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My Life is miserable.
@@ -24,18 +24,18 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<a href="https://www.youtube.com/channel/UCmcq3sQAsw8SCHSjuzkYkfw">
+<a href="https://www.youtube.com/channel/UCCIgpXkXntMEVgAQXKzlooA">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.linkedin.com/in/keshav-raturi/">
+<a href="linkopedia.me">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/Keshav44483499">
+<a href="linkopedia.me">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:keshavraturi333@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://medium.com/@hackerhacker">
+<a href="https://dev.to/keshav44483499">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
