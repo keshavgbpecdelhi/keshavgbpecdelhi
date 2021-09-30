@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning basic algorithmic techniques and ideas for computational problems.
 - 👯 I’m looking to collaborate on [NO IDEA]
 - 🤔 I’m looking for help with [NO IDEA]
-- 💬 Ask me about this [channel](https://www.youtube.com/channel/UCsq-0rqRffMbySKDh3Y9kgA) :))
+- 💬 Ask me about this [channel](https://www.youtube.com/channel/UCBosGGArpObI3TMq9yiwtvQ) :))
 - 📫 How to reach me: Links are below.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My Life is miserable.
