@@ -5,15 +5,14 @@
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on understanding simple algorithms.
+- 🔭 I’m currently working on python libraries.
 - 🌱 I’m currently learning basic algorithmic techniques and ideas for computational problems.
-- 👯 I’m looking to collaborate on [NO IDEA]
-- 🤔 I’m looking for help with [NO IDEA]
-- 💬 Ask me about this [channel](https://www.youtube.com/channel/UCBosGGArpObI3TMq9yiwtvQ) :))
+- 👯 I’m looking to collaborate on Frontend Projects
+- 🤔 I’m looking for help with Web Development Projects.
+- 💬 Ask me about [anything](https://www.youtube.com/channel/UCBosGGArpObI3TMq9yiwtvQ) :))
 - 📫 How to reach me: Links are below.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My Life is miserable.
+- ⚡ Fun fact: I am Happy.
 
 
 <br />
