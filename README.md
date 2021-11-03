@@ -2,9 +2,6 @@
 <br />
 <br />
 
-This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 🔭 I’m currently working on python libraries.
 - 🌱 I’m currently learning basic algorithmic techniques and ideas for computational problems.
 - 👯 I’m looking to collaborate on Frontend Projects
