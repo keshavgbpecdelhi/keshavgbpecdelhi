@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning basic algorithmic techniques and ideas for computational problems.
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with Web Development Projects.
-- 💬 Ask me about [anything](https://www.youtube.com/channel/UCBosGGArpObI3TMq9yiwtvQ) :))
+- 💬 Ask me about [anything](https://www.youtube.com/c/techedcs) :))
 - 📫 How to reach me: Links are below.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Happy.
