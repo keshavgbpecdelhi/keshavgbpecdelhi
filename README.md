@@ -20,18 +20,18 @@
 
 <br />
 <br />
-<a href="https://www.youtube.com/channel/UCCIgpXkXntMEVgAQXKzlooA">
+<a href="https://www.youtube.com/c/techedcs">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/keshav-raturi">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="#">
+<a href="https://twitter.com/Keshav44483499">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:keshavraturi333@gmail.com">
+<a href="mailto:06420keshav902719@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="#">
+<a href="https://dev.to/keshav44483499">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
