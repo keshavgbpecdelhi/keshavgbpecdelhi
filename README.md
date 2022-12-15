@@ -2,11 +2,11 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on python libraries.
+- 🔭 I’m currently preparing for on-campus interviews.
 - 🌱 I’m currently learning basic algorithmic techniques and ideas for computational problems.
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with Web Development Projects.
-- 💬 Ask me about blockchain :))
+- 💬 Ask me about cryptography :))
 - 📫 How to reach me: Links are below.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Happy.
